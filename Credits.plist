@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Section Header</key>
+		<string>Author</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>Aaron Jubbal</key>
+				<string>Obj-C</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Section Header</key>
+		<string>Cast</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>Ryan Seacrest</key>
+				<string>Emerican Idol</string>
+			</dict>
+			<dict>
+				<key>Hurley</key>
+				<string>Lost</string>
+			</dict>
+			<dict>
+				<key>Yoshi</key>
+				<string>Eggs</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Section Header</key>
+		<string>Wise</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>Obe Wan Kenobe</key>
+				<string>Jedi</string>
+			</dict>
+			<dict>
+				<key>Qui Gon Ginn</key>
+				<string>Jedi</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>View Title</key>
+		<string>Acknowledgements</string>
+		<key>View Contents</key>
+		<array>
+			<dict>
+				<key>View Title</key>
+				<string>Recognition</string>
+				<key>View Contents</key>
+				<array>
+					<dict>
+						<key>Section Header</key>
+						<string>Rancid</string>
+						<key>Items</key>
+						<array>
+							<dict>
+								<key>Tim Armstrong</key>
+								<string>Vocals/Guitar</string>
+							</dict>
+							<dict>
+								<key>Matt Freeman</key>
+								<string>Bass</string>
+							</dict>
+							<dict>
+								<key>Lars Frederiksen</key>
+								<string>Vocals/Guitar</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>Section Header</key>
+						<string>Streetlight Manifesto</string>
+						<key>Items</key>
+						<array>
+							<dict>
+								<key>Thomas Kalnoky</key>
+								<string>Vocals/Guitar</string>
+							</dict>
+							<dict>
+								<key>Paul Lowdnes</key>
+								<string>Drums</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Section Header</key>
+				<string>Other Jedis</string>
+				<key>Items</key>
+				<array>
+					<dict>
+						<key>Yoda</key>
+						<string>Small Green</string>
+					</dict>
+					<dict>
+						<key>Mace Windu</key>
+						<string></string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>Section Header</key>
+				<string>Movies</string>
+				<key>Items</key>
+				<array>
+					<dict>
+						<key>Vin Diesel</key>
+						<string>Furious</string>
+					</dict>
+					<dict>
+						<key>Adam Sandler</key>
+						<string>Billy Madison</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Section Header</key>
+		<string>Seinfeld</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>Kramer</key>
+				<string>Wonky</string>
+			</dict>
+			<dict>
+				<key>George</key>
+				<string>Loser</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
